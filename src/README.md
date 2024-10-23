@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 我的博客简历11
+heroText: 我的博客简历22
 tagline: 您好，我叫sp，毕业于🎓西瓜师大。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
 actions:
   - text: 查看简历 👣
